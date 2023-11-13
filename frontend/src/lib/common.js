@@ -1,3 +1,5 @@
+/* eslint-disable comma-dangle */
+/* eslint-disable arrow-parens */
 import axios from 'axios';
 import { API_ROUTES } from '../utils/constants';
 

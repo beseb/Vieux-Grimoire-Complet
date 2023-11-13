@@ -1,0 +1,14 @@
+https://github.com/beseb/Vieux-Grimoire-Complet.git
+
+
+
+Attention ! 
+il faut créer un fichier .env à placer dans le dossier backend du site pour accéder à la base de donnée. Placez ce code dans le fichier .env  :
+
+
+MONGODB_USERNAME=sebastienescudero
+MONGODB_PASSWORD=JR8W7BdAZudaUUcO
+MONGODB_HOST=cluster0paris.y2apdml.mongodb.net
+MONGODB_DATABASE=test
+
+BCRYPT_SALT=10
